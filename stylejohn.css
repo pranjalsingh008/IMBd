@@ -1,0 +1,23 @@
+#img{
+  width: 300px;
+  height: 400px
+}
+#img1{
+  width:55px;
+  height: 55px;
+}
+body{
+ 	  background-image: url(./images/actorbg.jpg);
+ 	  background-repeat: no-repeat;
+ 	  background-position: center;
+ 	  background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+  color:white;
+}
+ .content{
+   color: white;
+   font-size: 25px;
+
+ }
